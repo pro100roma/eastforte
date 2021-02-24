@@ -1,0 +1,66 @@
+/**
+*** DM Sans
+**/
+@font-face {
+	font-family: "DMSans";
+	src: url("../fonts/dmsans/DMSans-Regular.ttf") format("truetype");
+	font-weight: 400;
+}
+@font-face {
+	font-family: "DMSans";
+	src: url("../fonts/dmsans/DMSans-Italic.ttf") format("truetype");
+	font-weight: 400;
+	font-style: italic;
+}
+@font-face {
+	font-family: "DMSans";
+	src: url("../fonts/dmsans/DMSans-Medium.ttf") format("truetype");
+	font-weight: 500;
+}
+@font-face {
+	font-family: "DMSans";
+	src: url("../fonts/dmsans/DMSans-MediumItalic.ttf") format("truetype");
+	font-weight: 500;
+	font-style: italic;
+}
+
+@font-face {
+	font-family: "DMSans";
+	src: url("../fonts/dmsans/DMSans-Bold.ttf") format("truetype");
+	font-weight: 700;
+}
+@font-face {
+	font-family: "DMSans";
+	src: url("../fonts/dmsans/DMSans-BoldItalic.ttf") format("truetype");
+	font-weight: 700;
+	font-style: italic;
+}
+
+/**
+*** Sora
+**/
+@font-face {
+	font-family: "Sora";
+	src: url("../fonts/sora/Sora-ExtraBold.ttf") format("truetype");
+	font-weight: 800;
+}
+@font-face {
+	font-family: "Sora";
+	src: url("../fonts/sora/Sora-Bold.ttf") format("truetype");
+	font-weight: 700;
+}
+@font-face {
+	font-family: "Sora";
+	src: url("../fonts/sora/Sora-SemiBold.ttf") format("truetype");
+	font-weight: 600;
+}
+@font-face {
+	font-family: "Sora";
+	src: url("../fonts/sora/Sora-Medium.ttf") format("truetype");
+	font-weight: 500;
+}
+@font-face {
+	font-family: "Sora";
+	src: url("../fonts/sora/Sora-Regular.ttf") format("truetype");
+	font-weight: 400;
+}
